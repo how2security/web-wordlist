@@ -11375,6 +11375,7 @@ zh_TW
 zip
 zipfiles
 zips
+api/admin
 api/account
 api/account/accounts
 api/account/accounts/summaries
@@ -11429,6 +11430,7 @@ api/userPreferences
 api/users
 api/users/password
 api/users/summaries
+api/v1/admin
 api/v1/account
 api/v1/account/accounts
 api/v1/account/accounts/summaries
@@ -11483,6 +11485,7 @@ api/v1/userPreferences
 api/v1/users
 api/v1/users/password
 api/v1/users/summaries
+api/v2/admin
 api/v2/account
 api/v2/account/accounts
 api/v2/account/accounts/summaries
@@ -11537,6 +11540,7 @@ api/v2/userPreferences
 api/v2/users
 api/v2/users/password
 api/v2/users/summaries
+/api/admin
 /api/account
 /api/account/accounts
 /api/account/accounts/summaries
@@ -11591,6 +11595,7 @@ api/v2/users/summaries
 /api/users
 /api/users/password
 /api/users/summaries
+/api/v1/admin
 /api/v1/account
 /api/v1/account/accounts
 /api/v1/account/accounts/summaries
@@ -11645,6 +11650,7 @@ api/v2/users/summaries
 /api/v1/users
 /api/v1/users/password
 /api/v1/users/summaries
+/api/v2/admin
 /api/v2/account
 /api/v2/account/accounts
 /api/v2/account/accounts/summaries
